@@ -1,0 +1,7 @@
+D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\Definitions.UE4CPPLearn.h
+D:\Unreal Projects\UE4CPPLearn\Source\UE4CPPLearn\UE4CPPLearnGameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Program Files\Epic Games\UE_4.23\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Inc\UE4CPPLearn\UE4CPPLearnGameModeBase.generated.h
