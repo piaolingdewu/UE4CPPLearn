@@ -3,7 +3,7 @@
   <ItemGroup>
     <None Include="..\..\UE4CPPLearn.uproject" />
     <Filter Include="Source">
-      <UniqueIdentifier>{E2B1E525-364B-45EA-A70F-E8438E41E546}</UniqueIdentifier>
+      <UniqueIdentifier>{BDBF55E5-FC4B-4C7B-AC73-909B3B27D463}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UE4CPPLearn.Target.cs">
       <Filter>Source</Filter>
@@ -11,8 +11,10 @@
     <None Include="..\..\Source\UE4CPPLearnEditor.Target.cs">
       <Filter>Source</Filter>
     </None>
+    <None Include="..\..\.gitattributes" />
+    <None Include="..\..\.gitignore" />
     <Filter Include="Config">
-      <UniqueIdentifier>{B6C573E4-4245-4442-A5C3-248A94C38944}</UniqueIdentifier>
+      <UniqueIdentifier>{ADA2D916-529A-437B-9CC9-857C621DAF08}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\DefaultEditor.ini">
       <Filter>Config</Filter>
@@ -24,55 +26,55 @@
       <Filter>Config</Filter>
     </None>
     <Filter Include="Config\Android">
-      <UniqueIdentifier>{E2144123-9FF3-4B02-8933-09E6459EAFA9}</UniqueIdentifier>
+      <UniqueIdentifier>{858D3B6F-ED38-499B-BB24-E0A1F48AD915}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Android\AndroidEngine.ini">
       <Filter>Config\Android</Filter>
     </None>
     <Filter Include="Config\IOS">
-      <UniqueIdentifier>{E771DD8F-D8BE-4E35-A1A4-416CD89AA542}</UniqueIdentifier>
+      <UniqueIdentifier>{7BE235C6-4E12-4E9D-A7C8-A9EA41022000}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\IOS\IOSEngine.ini">
       <Filter>Config\IOS</Filter>
     </None>
     <Filter Include="Config\Linux">
-      <UniqueIdentifier>{BA1D2F79-F996-434C-9FED-3D438E236B35}</UniqueIdentifier>
+      <UniqueIdentifier>{0D557391-D4E3-491E-BBF0-3B995C00F0AD}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Linux\LinuxEngine.ini">
       <Filter>Config\Linux</Filter>
     </None>
     <Filter Include="Config\Mac">
-      <UniqueIdentifier>{0FD12AE0-83AE-49DA-91C3-D789D29A9BDB}</UniqueIdentifier>
+      <UniqueIdentifier>{53BDCC5C-A761-4D22-8101-6F8F29B67E18}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Mac\MacEngine.ini">
       <Filter>Config\Mac</Filter>
     </None>
     <Filter Include="Config\PS4">
-      <UniqueIdentifier>{C803826D-46B0-4196-BB57-51D881E0457B}</UniqueIdentifier>
+      <UniqueIdentifier>{174EA18B-D33F-4F8D-9F84-1B2FA131BA35}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\PS4\PS4Engine.ini">
       <Filter>Config\PS4</Filter>
     </None>
     <Filter Include="Config\Switch">
-      <UniqueIdentifier>{4CEAC1AB-7C5F-40C8-AB1B-FBB4A8AE9388}</UniqueIdentifier>
+      <UniqueIdentifier>{EAC05A38-4BE0-46E5-B860-4F1C796B1326}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Switch\SwitchEngine.ini">
       <Filter>Config\Switch</Filter>
     </None>
     <Filter Include="Config\Windows">
-      <UniqueIdentifier>{65B39840-CD2F-4E5E-81E7-734EFB9A25B2}</UniqueIdentifier>
+      <UniqueIdentifier>{E2A1C47E-7747-44A0-AB02-AD02229B0EA7}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\Windows\WindowsEngine.ini">
       <Filter>Config\Windows</Filter>
     </None>
     <Filter Include="Config\XboxOne">
-      <UniqueIdentifier>{B01C2982-2239-45AF-A89D-996BB43D30EC}</UniqueIdentifier>
+      <UniqueIdentifier>{D1A62DA9-4F69-4644-AB6B-3957B481159D}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Config\XboxOne\XboxOneEngine.ini">
       <Filter>Config\XboxOne</Filter>
     </None>
     <Filter Include="Source\UE4CPPLearn">
-      <UniqueIdentifier>{1630B42E-40EF-41A1-955E-9DE72214F89D}</UniqueIdentifier>
+      <UniqueIdentifier>{4BEC46C4-25B8-4759-9285-39A8333FA369}</UniqueIdentifier>
     </Filter>
     <None Include="..\..\Source\UE4CPPLearn\UE4CPPLearn.Build.cs">
       <Filter>Source\UE4CPPLearn</Filter>
@@ -89,5 +91,59 @@
     <ClInclude Include="..\..\Source\UE4CPPLearn\UE4CPPLearnGameModeBase.h">
       <Filter>Source\UE4CPPLearn</Filter>
     </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source\UE4CPPLearn\AIModule">
+      <UniqueIdentifier>{37cea69b-59db-4ce9-b71f-0da9f588ad06}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UE4CPPLearn\AIModule\AIPawnTest">
+      <UniqueIdentifier>{3e920c78-820a-449b-9d51-d3c5544c0f6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UE4CPPLearn\AIModule\Gourd">
+      <UniqueIdentifier>{73676c48-7481-46f9-b0f0-8fd7d006898f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UE4CPPLearn\AIModule\Gourd\BehaviorNode">
+      <UniqueIdentifier>{eb46a344-e755-4764-b3ac-d7752fdb8016}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UE4CPPLearn\AIModule\Monster">
+      <UniqueIdentifier>{b1a79a23-6e1f-4251-9828-00847c02ed75}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UE4CPPLearn\AIModule\AICharacter">
+      <UniqueIdentifier>{6b093188-3fec-4926-a2b3-75221f0c5318}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\UE4CPPLearn\AIModule\AIPawnTest\AIPawnTest.h">
+      <Filter>Source\UE4CPPLearn\AIModule\AIPawnTest</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE4CPPLearn\AIModule\Gourd\BehaviorNode\BTDecorator_CheckSightMonster.h">
+      <Filter>Source\UE4CPPLearn\AIModule\Gourd\BehaviorNode</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE4CPPLearn\AIModule\Gourd\Gourd.h">
+      <Filter>Source\UE4CPPLearn\AIModule\Gourd</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE4CPPLearn\AIModule\Monster.h">
+      <Filter>Source\UE4CPPLearn\AIModule\Monster</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE4CPPLearn\AIModule\AICharacter\AICharacter.h">
+      <Filter>Source\UE4CPPLearn\AIModule\AICharacter</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\UE4CPPLearn\AIModule\AIPawnTest\AIPawnTest.cpp">
+      <Filter>Source\UE4CPPLearn\AIModule\AIPawnTest</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE4CPPLearn\AIModule\Gourd\BehaviorNode\BTDecorator_CheckSightMonster.cpp">
+      <Filter>Source\UE4CPPLearn\AIModule\Gourd\BehaviorNode</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE4CPPLearn\AIModule\Gourd\Gourd.cpp">
+      <Filter>Source\UE4CPPLearn\AIModule\Gourd</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE4CPPLearn\AIModule\Monster.cpp">
+      <Filter>Source\UE4CPPLearn\AIModule\Monster</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE4CPPLearn\AIModule\AICharacter\AICharacter.cpp">
+      <Filter>Source\UE4CPPLearn\AIModule\AICharacter</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

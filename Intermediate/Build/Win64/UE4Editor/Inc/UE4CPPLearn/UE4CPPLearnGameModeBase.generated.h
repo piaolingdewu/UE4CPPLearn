@@ -13,6 +13,7 @@ PRAGMA_DISABLE_DEPRECATION_WARNINGS
 #endif
 #define UE4CPPLEARN_UE4CPPLearnGameModeBase_generated_h
 
+#define UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_SPARSE_DATA
 #define UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_RPC_WRAPPERS
 #define UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS
 #define UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
@@ -20,7 +21,7 @@ private: \
 	static void StaticRegisterNativesAUE4CPPLearnGameModeBase(); \
 	friend struct Z_Construct_UClass_AUE4CPPLearnGameModeBase_Statics; \
 public: \
-	DECLARE_CLASS(AUE4CPPLearnGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Script/UE4CPPLearn"), NO_API) \
+	DECLARE_CLASS(AUE4CPPLearnGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/UE4CPPLearn"), NO_API) \
 	DECLARE_SERIALIZER(AUE4CPPLearnGameModeBase)
 
 
@@ -29,7 +30,7 @@ private: \
 	static void StaticRegisterNativesAUE4CPPLearnGameModeBase(); \
 	friend struct Z_Construct_UClass_AUE4CPPLearnGameModeBase_Statics; \
 public: \
-	DECLARE_CLASS(AUE4CPPLearnGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient), CASTCLASS_None, TEXT("/Script/UE4CPPLearn"), NO_API) \
+	DECLARE_CLASS(AUE4CPPLearnGameModeBase, AGameModeBase, COMPILED_IN_FLAGS(0 | CLASS_Transient | CLASS_Config), CASTCLASS_None, TEXT("/Script/UE4CPPLearn"), NO_API) \
 	DECLARE_SERIALIZER(AUE4CPPLearnGameModeBase)
 
 
@@ -65,6 +66,7 @@ DEFINE_VTABLE_PTR_HELPER_CTOR_CALLER(AUE4CPPLearnGameModeBase); \
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_SPARSE_DATA \
 	UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_RPC_WRAPPERS \
 	UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_INCLASS \
 	UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_STANDARD_CONSTRUCTORS \
@@ -76,6 +78,7 @@ PRAGMA_ENABLE_DEPRECATION_WARNINGS
 PRAGMA_DISABLE_DEPRECATION_WARNINGS \
 public: \
 	UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_PRIVATE_PROPERTY_OFFSET \
+	UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_SPARSE_DATA \
 	UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_RPC_WRAPPERS_NO_PURE_DECLS \
 	UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_INCLASS_NO_PURE_DECLS \
 	UE4CPPLearn_Source_UE4CPPLearn_UE4CPPLearnGameModeBase_h_15_ENHANCED_CONSTRUCTORS \

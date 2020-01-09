@@ -52,18 +52,18 @@ void EmptyLinkFunctionForGeneratedCodeUE4CPPLearnGameModeBase() {}
 	};
 	const UE4CodeGen_Private::FClassParams Z_Construct_UClass_AUE4CPPLearnGameModeBase_Statics::ClassParams = {
 		&AUE4CPPLearnGameModeBase::StaticClass,
-		nullptr,
+		"Game",
 		&StaticCppClassTypeInfo,
 		DependentSingletons,
 		nullptr,
 		nullptr,
 		nullptr,
-		ARRAY_COUNT(DependentSingletons),
+		UE_ARRAY_COUNT(DependentSingletons),
 		0,
 		0,
 		0,
-		0x009002A8u,
-		METADATA_PARAMS(Z_Construct_UClass_AUE4CPPLearnGameModeBase_Statics::Class_MetaDataParams, ARRAY_COUNT(Z_Construct_UClass_AUE4CPPLearnGameModeBase_Statics::Class_MetaDataParams))
+		0x009002ACu,
+		METADATA_PARAMS(Z_Construct_UClass_AUE4CPPLearnGameModeBase_Statics::Class_MetaDataParams, UE_ARRAY_COUNT(Z_Construct_UClass_AUE4CPPLearnGameModeBase_Statics::Class_MetaDataParams))
 	};
 	UClass* Z_Construct_UClass_AUE4CPPLearnGameModeBase()
 	{
@@ -74,7 +74,7 @@ void EmptyLinkFunctionForGeneratedCodeUE4CPPLearnGameModeBase() {}
 		}
 		return OuterClass;
 	}
-	IMPLEMENT_CLASS(AUE4CPPLearnGameModeBase, 1697925732);
+	IMPLEMENT_CLASS(AUE4CPPLearnGameModeBase, 987342139);
 	template<> UE4CPPLEARN_API UClass* StaticClass<AUE4CPPLearnGameModeBase>()
 	{
 		return AUE4CPPLearnGameModeBase::StaticClass();

@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.23",
+	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
 	"Enterprise": true,
@@ -8,7 +8,11 @@
 		{
 			"Name": "UE4CPPLearn",
 			"Type": "Runtime",
-			"LoadingPhase": "Default"
+			"LoadingPhase": "Default",
+			"AdditionalDependencies": [
+				"Engine",
+				"AIModule"
+			]
 		}
 	]
 }

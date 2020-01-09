@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UE4CPPLearn.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4CPPLearnEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\AIPawnTest.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\BTDecorator_CheckSightMonster.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\Gourd.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\Monster.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\UE4CPPLearn.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\UE4CPPLearnGameModeBase.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\AIPawnTest.gen.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\BTDecorator_CheckSightMonster.gen.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\Gourd.gen.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\Monster.gen.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\UE4CPPLearn.init.gen.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\UE4CPPLearnGameModeBase.gen.cpp.obj"
+"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\Default.rc2.res"
+/OUT:"D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\UE4Editor-UE4CPPLearn.lib"
+/INCLUDE:IMPLEMENT_MODULE_UE4CPPLearn
