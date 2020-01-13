@@ -111,6 +111,27 @@
     <Filter Include="Source\UE4CPPLearn\AIModule\AICharacter">
       <UniqueIdentifier>{6b093188-3fec-4926-a2b3-75221f0c5318}</UniqueIdentifier>
     </Filter>
+    <Filter Include="Source\UE4CPPLearn\ArrTest">
+      <UniqueIdentifier>{e13c3436-d0d5-485e-bccc-ada13a7873f9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UE4CPPLearn\ArrTest\MoveActor">
+      <UniqueIdentifier>{05cdb652-995e-4f14-ab03-d895c2e5b4b3}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay">
+      <UniqueIdentifier>{039104d5-bacd-4f6a-9d1c-03c61bc4c48b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Left">
+      <UniqueIdentifier>{bc1fb701-9142-4afb-97be-edbe5b748fcb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Right">
+      <UniqueIdentifier>{65e5ffb7-bedc-458a-9b8e-ddb9add4e0f8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_UP">
+      <UniqueIdentifier>{29fe0c68-92cf-45b0-b470-dcf53e4530dc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Down">
+      <UniqueIdentifier>{19948dc1-d993-4437-aee2-9047efd0d3fb}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="..\..\Source\UE4CPPLearn\AIModule\AIPawnTest\AIPawnTest.h">
@@ -128,6 +149,24 @@
     <ClInclude Include="..\..\Source\UE4CPPLearn\AIModule\AICharacter\AICharacter.h">
       <Filter>Source\UE4CPPLearn\AIModule\AICharacter</Filter>
     </ClInclude>
+    <ClInclude Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveActor.h">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay.h">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Left\MoveWay_Left.h">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Left</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Right\MoveWay_Right.h">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Right</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_UP\MoveWay_UP.h">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_UP</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Down\MoveWay_Down.h">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Down</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\..\Source\UE4CPPLearn\AIModule\AIPawnTest\AIPawnTest.cpp">
@@ -144,6 +183,24 @@
     </ClCompile>
     <ClCompile Include="..\..\Source\UE4CPPLearn\AIModule\AICharacter\AICharacter.cpp">
       <Filter>Source\UE4CPPLearn\AIModule\AICharacter</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveActor.cpp">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay.cpp">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Left\MoveWay_Left.cpp">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Left</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Right\MoveWay_Right.cpp">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Right</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_UP\MoveWay_UP.cpp">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_UP</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Down\MoveWay_Down.cpp">
+      <Filter>Source\UE4CPPLearn\ArrTest\MoveActor\MoveWay\MoveWay_Down</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>
