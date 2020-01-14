@@ -1,2 +1,0 @@
-D:\Unreal Projects\UE4CPPLearn\Intermediate\Build\Win64\UE4Editor\Development\UE4CPPLearn\Definitions.UE4CPPLearn.h
-D:\Unreal Projects\UE4CPPLearn\Source\UE4CPPLearn\UE4CPPLearn.h

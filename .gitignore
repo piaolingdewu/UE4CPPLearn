@@ -3,6 +3,11 @@
 ##
 ## Get latest from https://github.com/github/gitignore/blob/master/VisualStudio.gitignore
 
+#忽略的文件夹
+Intermediate/
+Saved/
+Binaries/
+
 # User-specific files
 *.rsuser
 *.suo
